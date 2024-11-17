@@ -1,6 +1,3 @@
-Base path: 'C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines'
-Cmd: initializeCompiler
-
-Unhandled exception: Protocol error - failed to read magic number. Error code 0x80000004 (Not connected). (transferred 0/4)
-
-Quitting shader compiler process
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc64be87729e2d98adaf636edd56cc0a6dc41ac053747562c1edcaa36e84213c
+size 15038

@@ -1,1 +1,3 @@
-C:\Unity projects\furry-tavern
+version https://git-lfs.github.com/spec/v1
+oid sha256:5694cdabbbadac96a61896847e7726359dde31659c7b715c0ffd253e09f1aae5
+size 30
